@@ -11,6 +11,22 @@
 
 - ✨ Mentor at [Rewriting the Code](https://rewritingthecode.org/)<br>
 
+#### 🧑‍💻 Tech I work on :
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="kafka" width="45" height="55"/>
+</p>
+
 #### What I'm up to
 - ❄️ Working with AWS to develop and manage cloud-based reliable and scalable applications. <br>
 
